@@ -1,7 +1,7 @@
 En lugar de escribir una lista de instrucciones sueltas (como una lista de compras), lo que hice fue crear un molde.
 Imagina que eres un fabricante de teléfonos. No diseñas cada teléfono desde cero; primero creas un plano (la Clase) que dice: "Todos los teléfonos que yo haga deben tener una marca, un modelo y una batería". Luego, usas ese plano para fabricar miles de teléfonos reales. Eso es exactamente lo que hicimos en Python.
 Para que el código no fuera solo texto, seguí estos cuatro pasos que vi en la actividad:
-A. La Identidad (La Clase)
+__A. La Identidad (La Clase)__
 legí el Smartphone. ¿Por qué? Porque todos entendemos qué es. En el código, la clase Smartphone es el concepto abstracto. Es como decir la palabra "Perro"; no te refieres a uno en específico, sino a la idea general de lo que es un perro.
 B. El ADN y la Personalidad (Atributos y Métodos)
 Atributos (El ADN): Son las cosas que el objeto tiene. Un teléfono "tiene" una marca y un modelo. Son sus datos de nacimiento.
